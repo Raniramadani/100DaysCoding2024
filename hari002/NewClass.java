@@ -19,7 +19,7 @@ public class NewClass {
         float bb = 57.0f;
         char kelas = 'D';
         short tahun = 2024;
-        //  boolean fakta = true;
+        
 
         System.out.printf("nama: %s, umur: %s, angkatan %s, tahunlahir %s, tb %s, bb %s, kelas %s, tahun %d\n ", nama, umur, angkatan, tahunlahir, tb, bb, kelas, tahun);
     }
