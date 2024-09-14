@@ -21,6 +21,6 @@ public class NewClass {
         short tahun = 2024;
         
 
-        System.out.printf("nama: %s, umur: %s, angkatan %s, tahunlahir %s, tb %s, bb %s, kelas %s, tahun %d\n ", nama, umur, angkatan, tahunlahir, tb, bb, kelas, tahun);
+        System.out.printf("nama: %s, umur: %s, angkatan: %s, tahunlahir: %s, tb: %s, bb: %s, kelas: %c, tahun: %d\n ", nama, umur, angkatan, tahunlahir, tb, bb, kelas, tahun);
     }
 }
