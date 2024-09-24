@@ -4,7 +4,7 @@ public class NewClass {
         Float a, b;
         a = 15.0f;
         b = 13.3f;
-        System.out.println(a.compareTo(a));
+        System.out.println(a.compareTo(b));
         System.out.println(a.isNaN());
     }
 }
