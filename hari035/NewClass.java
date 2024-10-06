@@ -2,9 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package hari034;
-
-import java.util.Scanner;
+package hari035;
 
 /**
  *
@@ -13,12 +11,11 @@ import java.util.Scanner;
 public class NewClass {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("maukan nama dan umur: ");
-        String nama = sc.nextLine();
-        int umur = sc.nextInt();
+        int a = 20;
+        int b = 15;
 
-        System.out.println(nama);
-        System.out.println(umur);
+        System.out.println(a + b);
+        System.out.println(b - a);
     }
+
 }
