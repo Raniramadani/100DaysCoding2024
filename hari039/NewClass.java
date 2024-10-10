@@ -5,11 +5,13 @@ import java.util.Scanner;
 public class NewClass {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int a = input.nextInt();
-        int b = input.nextInt();
-        System.out.println(a % b);
-        System.out.println(b % a);
+      Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();    
+        int b = sc.nextInt();
+        a = a % b;
+        b = b % a;
+        System.out.println(a); 
+        System.out.println(b);
 
     }
 }
