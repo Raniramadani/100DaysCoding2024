@@ -1,15 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package hari051;
 
+/**
+ *
+ * @author ACER
+ */
 public class NewClass {
-
-    public static void main(String[] args) {
-        int hari = 2;
-        switch (hari) {
-            case 1:
-                System.out.println("rabu");
-            case 2:
-                System.out.println("minggu");
-        }
-
-    }
+    
 }
