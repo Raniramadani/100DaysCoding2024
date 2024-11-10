@@ -17,7 +17,7 @@ public class NewClass6 {
 
         System.out.print("Masukkan jumlah angka n: ");
         int a = sc.nextInt();
-        System.out.print("Masukkan " + a );
+        System.out.print("Masukkan: " + a );
         int b = Integer.MIN_VALUE;
         for (int i = 0; i < a; i++) {
             int angka = sc.nextInt();
