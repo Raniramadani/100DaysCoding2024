@@ -3,7 +3,6 @@ package hari071;
 public class NewClass {
     static int angka = 10;
     public static void a() {
-        System.out.println("Ini adalah metode statis!");
     }
     public static int jumlah(int a, int b) {
         return a + b;
