@@ -9,9 +9,8 @@ package hari076;
  * @author ACER
  */
 public class NewClass {
-
     public static void main(String[] args) {
-        String a = "RANY";
+        String a = "rany";
         String b = a.toUpperCase();
         System.out.println(b);
     }
