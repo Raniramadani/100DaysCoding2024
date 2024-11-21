@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package hari080;
+package hari081;
 
 /**
  *
@@ -11,9 +11,7 @@ package hari080;
 public class NewClass {
 
     public static void main(String[] args) {
-        String a = " aulia ramadani ";
-        String b = a.trim();
-        System.out.println("'" + a + "'");
-        System.out.println("'" + b + "'");
+        int a = 10;
+        System.out.println(String.valueOf(a));
     }
 }
