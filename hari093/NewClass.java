@@ -1,18 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package hari093;
 
-/**
- *
- * @author ACER
- */
 public class NewClass {
+
     public static void main(String[] args) {
-        
-    
-     int n = 5;
+
+        int n = 5;
         for (int i = 0; i < n; i++) {
             for (int j = n - i - 1; j > 0; j--) {
                 System.out.print(" ");
@@ -27,6 +19,6 @@ public class NewClass {
             }
 
             System.out.println();
-}
-}
+        }
+    }
 }
